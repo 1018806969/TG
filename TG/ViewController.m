@@ -20,6 +20,8 @@
     [self initSomething];
     
     [self createUI];
+    
+    [self xxtang];
 }
 - (void)createUI
 {
@@ -29,6 +31,10 @@
 - (void)initSomething
 {
     
+}
+- (void)xxtang
+{
+    self.view.backgroundColor = [UIColor orangeColor];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
