@@ -27,6 +27,8 @@
     
     [self xxtang2];
     [self lzhou2];
+    
+    //xxtang_1;
 }
 - (void)createUI
 {
