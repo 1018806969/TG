@@ -29,6 +29,8 @@
     [self lzhou2];
     
     //lzhou_1
+    
+    //lzhou_2
 }
 - (void)createUI
 {
