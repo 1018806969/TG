@@ -15,6 +15,7 @@
 		D7627DB71F0205C700F9D0D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7627DB51F0205C700F9D0D0 /* LaunchScreen.storyboard */; };
 		D7627DC01F02079000F9D0D0 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7627DBF1F02079000F9D0D0 /* MainViewController.m */; };
 		D7627DC31F020A9B00F9D0D0 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7627DC21F020A9B00F9D0D0 /* DetailViewController.m */; };
+		D7627DC51F02423700F9D0D0 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D7627DC41F02423700F9D0D0 /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		D7627DBF1F02079000F9D0D0 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		D7627DC11F020A9A00F9D0D0 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		D7627DC21F020A9B00F9D0D0 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		D7627DC41F02423700F9D0D0 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,12 +70,13 @@
 				D7627DAB1F0205C700F9D0D0 /* AppDelegate.m */,
 				D7627DAD1F0205C700F9D0D0 /* ViewController.h */,
 				D7627DAE1F0205C700F9D0D0 /* ViewController.m */,
-				D7627DC11F020A9A00F9D0D0 /* DetailViewController.h */,
-				D7627DC21F020A9B00F9D0D0 /* DetailViewController.m */,
 				D7627DBE1F02079000F9D0D0 /* MainViewController.h */,
 				D7627DBF1F02079000F9D0D0 /* MainViewController.m */,
+				D7627DC11F020A9A00F9D0D0 /* DetailViewController.h */,
+				D7627DC21F020A9B00F9D0D0 /* DetailViewController.m */,
 				D7627DB01F0205C700F9D0D0 /* Main.storyboard */,
 				D7627DB31F0205C700F9D0D0 /* Assets.xcassets */,
+				D7627DC41F02423700F9D0D0 /* 1.jpg */,
 				D7627DB51F0205C700F9D0D0 /* LaunchScreen.storyboard */,
 				D7627DB81F0205C700F9D0D0 /* Info.plist */,
 				D7627DA71F0205C700F9D0D0 /* Supporting Files */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7627DB71F0205C700F9D0D0 /* LaunchScreen.storyboard in Resources */,
+				D7627DC51F02423700F9D0D0 /* 1.jpg in Resources */,
 				D7627DB41F0205C700F9D0D0 /* Assets.xcassets in Resources */,
 				D7627DB21F0205C700F9D0D0 /* Main.storyboard in Resources */,
 			);
