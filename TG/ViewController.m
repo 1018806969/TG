@@ -22,6 +22,8 @@
     [self createUI];
     
     [self xxtang];
+    
+    [self lzhou];
 }
 - (void)createUI
 {
@@ -35,6 +37,10 @@
 - (void)xxtang
 {
     self.view.backgroundColor = [UIColor orangeColor];
+}
+- (void)lzhou
+{
+    self.view.backgroundColor = [UIColor redColor];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
