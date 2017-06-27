@@ -18,8 +18,14 @@
     [super viewDidLoad];
     
     [self initSomething];
+    
+    [self createUI];
 }
-
+- (void)createUI
+{
+    UIView *view = [[UIView alloc]init];
+    [self.view addSubview:view];
+}
 - (void)initSomething
 {
     
