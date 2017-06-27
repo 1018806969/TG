@@ -20,6 +20,9 @@
     [self initSomething];
     
     [self createUI];
+    
+    
+    [self lzhou];
 }
 - (void)createUI
 {
@@ -29,6 +32,10 @@
 - (void)initSomething
 {
     
+}
+- (void)lzhou
+{
+    self.view.backgroundColor = [UIColor redColor];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
